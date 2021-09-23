@@ -15,7 +15,13 @@ generateBtn.addEventListener("click", writePassword);
 
 
 // 1. length describes how long the password can be. 
-// 2. charset is used to create a string of applicable characters used for a password. 
+var box = empty 
+ask user what characters he wants
+grab characters 
+put characters in box 
+use mathmethod to select characters
+select number of characters user wants 
+use charAt to grab random character
 // 3. 
 // 4. 
 // 5. 
