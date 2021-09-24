@@ -27,11 +27,11 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsla(225, 67%, 1%, 0.979);
+  color: hsla(108, 79%, 43%, 0.979);
 }
 
 .card {
-  background-color: hsl(115, 76%, 3%);
+  background-color: hsl(34, 100%, 53%);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(11, 117, 11, 0.15) 0px 2px 8px 0px;
@@ -74,7 +74,7 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: rgb(58, 185, 32);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
