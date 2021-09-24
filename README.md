@@ -4,7 +4,7 @@ This is a password generator used to help clients create a randomized list of po
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://gsandoval09.github.io/Password-Generator/)
 
 ### Prerequisites
 
@@ -25,8 +25,8 @@ No complicated steps needed for installing. Simply go to website, click generate
 
 * **GEORGE SANDOVAL** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://https://github.com/gsandoval09)
+- [Link to Portfolio Site](https://gsandoval09.github.io/Professional-portfolio/)
+- [Link to Github](https://gsandoval09.github.io/Password-Generator/)
 - [Link to LinkedIn](https://www.linkedin.com/in/george-sandoval-4467641b3)
 
 
