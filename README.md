@@ -36,6 +36,7 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, package
-* Inspiration
-* etc
+* Google
+* Mozilla
+* w3schools
+
