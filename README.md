@@ -12,7 +12,7 @@ None.
 #
 ## Installing
 
-No complicated steps needed for installing. Simply go to website, click generate password button, follow window prompt commands with either "Ok" or "cancel" and let the computer generate a password for you.
+No complicated steps needed for installing. Simply go to website, click on generate password button.
 
 
 ## Built With
