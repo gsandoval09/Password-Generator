@@ -1,6 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 var newPassword = [];
+// charPool and everything else below, gives us different characters the password generator is going to choose from
 var charPool= [];
 var possibleCharacters = [];
 var lowerAlpha = [
@@ -83,7 +84,7 @@ var symbols = ['@',
 '_',
 '.'];
 
-
+// Prompts are shown as soon as generate button icon is clicked, giving user the specifications of their password
 var generatePassword = function () {
   var passwordLength = parseInt(prompt("Password must contain 8-128 characters."), 10);
   var lowerCaseAllowed = confirm("Do you want lower case letter?");
@@ -94,6 +95,7 @@ var generatePassword = function () {
   var passwordOptions = { passwordLength: passwordLength, lowerCaseAllowed: lowerCaseAllowed, upperCaseAllowed: upperCaseAllowed, numericCaseAllowed: numericCaseAllowed, specialCaseAllowed: specialCaseAllowed };
   return passwordOptions;
 }
+// function generates a random array of characters
   function getRandom(arr){
     var randomIndex= (Math.floor(Math.random()*arr.length));
     var randomElement = arr[randomIndex]
@@ -102,7 +104,7 @@ var generatePassword = function () {
   function createPassword(){
     const options = generatePassword()
   
-
+// Returns back ability to recieve different generated passwords based on users input
   if (options.passwordLength < 8 || options.passwordLength > 128){
     return "";
   }

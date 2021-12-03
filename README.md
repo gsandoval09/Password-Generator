@@ -6,10 +6,13 @@ This is a password generator used to help clients create a randomized list of po
 
 * [See Live Site](https://gsandoval09.github.io/Password-Generator/)
 
-### Prerequisites
 
-None. 
-#
+## Screenshot
+
+![Image](passwordresult.png)
+
+![Image](passwordprompt.png)
+
 ## Installing
 
 No complicated steps needed for installing. Simply go to website, click on generate password button.
